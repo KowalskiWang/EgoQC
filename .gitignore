@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+._*
+.venv/
+models/*.task
+demo_data/
+EgoQC_Reports/
+*.h264

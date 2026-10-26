@@ -1,0 +1,13 @@
+# Python 3.12 recommended. Also needed on PATH: ffmpeg + ffprobe, and bsdtar (built into macOS / Windows 10+;
+# Linux: libarchive-tools) for zip/rar/7z archives.
+numpy>=1.26
+scipy>=1.11
+opencv-contrib-python>=4.9
+matplotlib>=3.8
+pyyaml>=6.0
+mediapipe>=0.10.14
+pycolmap>=4.0
+mcap>=1.2
+mcap-protobuf-support>=0.5
+protobuf>=4.25
+PySide6>=6.6
